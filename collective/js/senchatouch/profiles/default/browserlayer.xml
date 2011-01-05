@@ -1,0 +1,4 @@
+<layers>
+    <layer name="collective.js.senchatouch" 
+           interface="collective.js.senchatouch.interfaces.ISenchaTouchLayer" />
+</layers>
