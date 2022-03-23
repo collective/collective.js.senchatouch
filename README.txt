@@ -11,7 +11,7 @@ Companies
 
 |makinacom|_
 
-  * `Planet Makina Corpus <http://www.makina-corpus.org>`_
+  * `Planet Makina Corpus <https://www.makina-corpus.org>`_
   * `Contact us <mailto:python@makina-corpus.org>`_
 
 Authors
@@ -20,7 +20,7 @@ Authors
 
 Contributors
 
-.. |makinacom| image:: http://depot.makina-corpus.org/public/logo.gif
-.. _makinacom:  http://www.makina-corpus.com
-.. _sencha: http://www.sencha.com/
-.. _touch: http://www.sencha.com/products/touch
+.. |makinacom| image:: https://depot.makina-corpus.org/public/logo.gif
+.. _makinacom:  https://www.makina-corpus.com
+.. _sencha: https://www.sencha.com/
+.. _touch: https://www.sencha.com/products/touch
